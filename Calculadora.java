@@ -250,7 +250,7 @@ public class Calculadora {
         return Integer.parseInt(resultado);
     }
 
-    public void anadeNuevoDigito(int digit){
+    public void anadeNuevoDigito(int digito){
         if (inicializa_resultado)
             setResultadoString("");
 
