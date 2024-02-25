@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="24ab2ca6-eb3d-4c36-90a1-fedfd5c1752e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/ED_DAW_04.2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/libs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ED_DAW_04.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allclasses-index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allpackages-index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/element-list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/help-doc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index-files/index-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index-files/index-2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index-files/index-3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index-files/index-4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index-files/index-5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index-files/index-6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index-files/index-7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jquery-ui.overrides.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/legal/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/legal/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/legal/jquery.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/legal/jqueryUI.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/org.eclipse.swt.win32.win32.x86_64-3.124.200.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/member-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/overview-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/glass.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/script-dir/jquery-3.6.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/script-dir/jquery-ui.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/script-dir/jquery-ui.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Calculadora.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class-use/Calculadora.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class-use/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/package-use.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tag-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/type-search-index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculadora.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Calculadora.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2cs6jN17d4g007cyOsCVksz8myE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Virginia/IdeaProjects/ED_DAW_04.2"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Virginia\IdeaProjects\ED_DAW_04\libs" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="24ab2ca6-eb3d-4c36-90a1-fedfd5c1752e" name="Changes" comment="" />
+      <created>1708888075803</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708888075803</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

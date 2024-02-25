@@ -1,4 +1,5 @@
-import java.awt.BorderLayout;
+package src;
+
 import org.eclipse.swt.SWT;
 import org.eclipse.swt.events.SelectionAdapter;
 import org.eclipse.swt.events.SelectionEvent;
@@ -9,7 +10,21 @@ import org.eclipse.swt.widgets.Text;
 import javax.swing.JOptionPane;
 //import org.w3c.dom.Text;
 
+//import org.w3c.dom.Text;
+
+/**
+ * *@author Virginia María Berenguel Expósito
+ *@version 1.0
+ */
+
+
+/**
+ * @see src.Calculadora La clase src.Calculadora implementa una calculadora que permite sumar, restar, multiplicar
+y dividir
+ */
 public class Calculadora {
+
+
 
     // Constantes
     final int MAX_DIGITS = 5;
@@ -26,6 +41,10 @@ public class Calculadora {
 
     private static Text texto_resultado;
 
+    /**
+     *
+     * @param gui Indica si se desea mostrar la interfaz grafica
+     */
     public Calculadora(boolean gui) {
 
         //Inicialización de las variables.
@@ -35,12 +54,16 @@ public class Calculadora {
 
     }
 
+    /**
+     * Método privado para mostrar la interfaz gráfica de la calculadora
+     *
+     */
     private void dibujaCalculadora() {
 
         Display display = Display.getDefault();
         Shell shlCalculadora = new Shell();
         shlCalculadora.setSize(259, 250);
-        shlCalculadora.setText("Calculadora");
+        shlCalculadora.setText("src.Calculadora");
 
         //------------------------------------------------ -
         //Números
@@ -229,6 +252,10 @@ public class Calculadora {
         }
     }
 
+    /**
+     * Describe los valores iniciales de la calculadora
+     */
+
     public void inicializa() {
         operacion = "null";
         valor1 = 0;
@@ -237,18 +264,35 @@ public class Calculadora {
         inicializa_resultado = true;
     }
 
+    /**
+     *
+     * @return Devuelve el resultado como cadena de texto
+     */
     public String getResultadoString (){
         return texto_resultado.getText();
     }
+
+    /**
+     * @param s Establece el resultado como una cadena de texto
+     */
 
     public void setResultadoString(String s){
         texto_resultado.setText(s);
     }
 
+    /**
+     *  Devuelve un entero
+     * @return El resultado como entero
+     */
+
     public int getResultadoInt() {
         String resultado = texto_resultado.getText();
         return Integer.parseInt(resultado);
     }
+
+    /**
+     * @param digito Agrega un nuevo dígito al resultado actual
+     */
 
     public void anadeNuevoDigito(int digito){
         if (inicializa_resultado)
@@ -267,6 +311,11 @@ public class Calculadora {
         modo = MODE_ENTRADA;
         inicializa_resultado = false;
     }
+
+    /**
+     * Ejecuta una operación
+     * @param new_operacion La operación a ejecutar
+     */
 
     public void ejecutarOperador(String new_operacion) {
 
@@ -290,6 +339,10 @@ public class Calculadora {
         operacion = new_operacion;
     }
 
+    /**
+     * Ejecuta la operación de igual
+     */
+
     public void ejecutarIgual(){
         int resultado = 0;
 
@@ -299,6 +352,10 @@ public class Calculadora {
 
         operacion = "null";
     }
+
+    /**
+     * @return El resultado de la operación
+     */
 
     public int ejecutarOperacion() {
         int resultado = 0;
@@ -330,12 +387,20 @@ public class Calculadora {
         return resultado;
     }
 
+    /**
+     * @param resultado Muestra el resultado de la operación
+     */
+
     public void muestraResultado(int resultado){
         setResultadoString(Integer.toString(resultado));
         valor1 = resultado;
         modo = MODE_RESULTADO;
         inicializa_resultado = true;
     }
+
+    /**
+     * @param args Método principal para iniciar la calculadora
+     */
 
     public static void main(String args[]) {
         Calculadora calculadora = new Calculadora(true);
